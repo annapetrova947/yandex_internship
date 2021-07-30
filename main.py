@@ -26,9 +26,3 @@ for elem in d:
 for elem in d:
     if d[elem][2] == max_percent:
         print(d[elem][0])
-
-
-
-
-
-
